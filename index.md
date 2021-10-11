@@ -18,8 +18,6 @@
 	
   	1.4 Add layouts and styles
 	
-	1.5 Content reuse in GitHub
-	
  	1.6 Adding local or global variables
 	
  	1.7 Commit changes
