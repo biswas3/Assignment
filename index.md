@@ -2,39 +2,37 @@
 
 ![GitHubTasks](https://www.programmableweb.com/sites/default/files/GitHub-Launches-Security-Advisory-API.jpg)
 
-1. [Introduction]("./work-with-github.md"/)
+1. [Introduction](/introduction.md#introduction)
 
-2. Getting started
+2. Work with GitHub
 
-3. Work with GitHub
+	2.1 Create a project
 
-	3.1 Create a project
+	2.2 Clone a project
 
-	3.2 Clone a project
+	2.3 Add an Index file
 
-	3.3 Add an Index file
+	2.4 Add a Config file
 
-	3.4 Add a Config file
+	2.5 Add layouts and styles
 
-	3.5 Add layouts and styles
+	2.6 Adding local or global variables
 
-	3.6 Adding local or global variables
+	2.7 Commit changes
 
-	3.7 Commit changes
+	2.8 Fork a project
 
-	3.8 Fork a project
+	2.9 Raise a pull request
 
-	3.9 Raise a pull request
+	2.10 Publish a project
 
-	3.10 Publish a project
+3. Using syntax in GitHub
 
-4. Using syntax in GitHub
+	3.1 Markdown basics
 
-	4.1 Markdown basics
+	3.2 Yml basics
 
-	4.2 Yml basics
-
-	4.3 Liquid basics
+	3.3 Liquid basics
 
 
 
