@@ -10,21 +10,23 @@
 
 	3.1 Create a project
 
-	3.2 Add an Index file
+	3.2 Clone a project
 
-	3.3 Add a Config file
+	3.3 Add an Index file
 
-	3.4 Add layouts and styles
+	3.4 Add a Config file
 
-	3.5 Adding local or global variables
+	3.5 Add layouts and styles
 
-	3.6 Commit changes
+	3.6 Adding local or global variables
 
-	3.7 Fork a project
+	3.7 Commit changes
 
-	3.8 Raise a pull request
+	3.8 Fork a project
 
-	3.9 Publish a project
+	3.9 Raise a pull request
+
+	3.10 Publish a project
 
 4. Using syntax in GitHub
 

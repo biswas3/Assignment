@@ -2,7 +2,9 @@
 
 To explore **GitHub** and it's services, refer to the following pages: 
 
-- Create a project
+- [Create a project]("./work-with-github.md"/> 
+
+- Clone a project
 
 - Add an Index file
 
