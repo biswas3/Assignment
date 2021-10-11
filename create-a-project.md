@@ -34,3 +34,6 @@ To create a project in **GitHub**, follow the steps below:
 {% include Step5.md %}
 
 {% include Step7.md %}
+
+{% include Step9.md %}
+
