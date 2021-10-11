@@ -30,3 +30,5 @@ To create a project in **GitHub**, follow the steps below:
 		_**Note**_: README files are used to provide additional information to readers about the purpose of the repository. It is always a best practice to include a README file.
 
 4. Click **Create repository**.
+
+{% include Step7.md %}
