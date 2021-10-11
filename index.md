@@ -11,25 +11,25 @@
 1. Work with GitHub
 
 	1.1 Create a project
-
+	
 	1.2 Add an Index file
-
+	
 	1.3 Add a Config file
-
+	
   	1.4 Add layouts and styles
-
+	
 	1.5 Content reuse in GitHub
-
+	
  	1.6 Adding local or global variables
-
+	
  	1.7 Commit changes
-
+	
  	1.8 Fork a project
-
+	
  	1.9 Raise a pull request
-
+	
  	1.10 Publish a project
-
+	
 1. Using syntax in GitHub
 
 	1.1 Markdown basics
