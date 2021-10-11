@@ -1,3 +1,8 @@
+---
+author: Sudip Biswas
+layout: demo_template
+date: 09-10-2021
+---
 # Work with GitHub
 
 To explore **GitHub** and it's services, refer to the following pages: 
