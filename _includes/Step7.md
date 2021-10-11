@@ -1,15 +1,11 @@
-5. Manage your invoices and payment methods
+7. Create your resource groups
 
-	Before you start working with resources in your account, familiarize yourself with where you can manage your payment method and access your invoices.
+	Resource groups provide a way for you to easily manage access to multiple resources and to view billing usage for a set of resources. With your Pay-As-You-Go account, you can create more resource groups in addition to the default resource group that's included when you first created your Lite account.
 
-	**Managing your payment method**
+ 	1. Go to **Manage > Account > Account resources > Resource groups**.
 
-	- To manage your payment method for an account that's billed in USD currency, go to **Manage > Billing and usage**, and select **Payments**.
+	2. Click **Create**.
 
-	- To manage your payment method for an account that's billed in non-USD currency, go to [IBM Billing](https://myibm.ibm.com/billing/).
+	3. Enter a name for your resource group, and click **Add**.
 
-	**Accessing your invoices**
-
-	- To access an invoice for an account that's billed in USD currency, go to **Manage > Billing and usage**, and select **Invoices**.
-
-	- To access an invoice for an account that's billed in non-USD currency, go to **Manage > Billing and usage**, and select **Invoices**. Then, click **IBM Invoices**.
+See [What makes a good resource group strategy?](https://cloud.ibm.com/docs/account?topic=account-account_setup#resource-group-strategy) for details about how to optimally organize resources in your resource groups.

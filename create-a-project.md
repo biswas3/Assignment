@@ -31,4 +31,6 @@ To create a project in **GitHub**, follow the steps below:
 
 4. Click **Create repository**.
 
+{% include Step5.md %}
+
 {% include Step7.md %}
