@@ -17,7 +17,7 @@ A very good example of liquid syntax is using the **For-loop** statement, like b
 {% for entry in site.data.<dataset> %}
 1. {{entry.<column name>}} : {{entry.<column name>}}
 {% endfor %}
-```
+````
 
 It gives the following results:
 
