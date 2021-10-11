@@ -10,7 +10,7 @@ when an unknown printer took a galley of type and scrambled it to make a type sp
 leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem 
 Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-A very good example of liquid syntax is using the 'For-loop' statement that gives the following result:
+A very good example of liquid syntax is using the **For-loop** statement that gives the following result:
 
 {% for entry in site.data.titanic %}
 
