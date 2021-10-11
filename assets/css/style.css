@@ -1,13 +1,15 @@
 h1 {color:green;}
 p {color:green;}
 ol {
-  background: #e3fcdc
-  margin: 5px;
+  background:#e3fcdc
+  margin:5px
+  padding:2px;
 }
 
 ul {
   background: #e3fcdc;
   margin: 5px;
+  padding:2px;
 }
 
 
