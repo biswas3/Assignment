@@ -1,4 +1,4 @@
-9: Invite users to your account
+9. Invite users to your account
 
 You're ready to invite users to your account and grant them access based on the resources they will work with and the tasks they'll perform. If you want users to create resources from the catalog and assign the resources to a resource group, the following access is required:
 
