@@ -15,6 +15,7 @@ date: 09-10-2021
 
 
 **Author**: {{page.author}}
+
 **Dated**: {{page.date}}
 
 
