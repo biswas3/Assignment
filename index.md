@@ -2,7 +2,7 @@
 
 ![GitHubTasks](https://www.programmableweb.com/sites/default/files/GitHub-Launches-Security-Advisory-API.jpg)
 
-1. Introduction
+1. [Introduction]("./work-with-github.md"/)
 
 2. Getting started
 
