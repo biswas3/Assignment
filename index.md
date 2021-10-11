@@ -10,11 +10,11 @@
 
 1. Work with GitHub
 
-   1.1 Create a project
+	1.1 Create a project
 
-   1.1 Add an Index file
+	1.1 Add an Index file
 
-   1.1 Add a Config file
+	1.1 Add a Config file
 
   1. Add layouts and styles
 
