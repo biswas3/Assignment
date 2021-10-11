@@ -9,6 +9,6 @@ Create sophisticated formatting for your technical content and code on GitHub wi
 
 - [Markdown basics](/markdown.md#markdown)
 
-- Yml basics
+- [Yml basics](/yml.md#yml-basics)
 
-- Liquid basics
+- [Liquid basics](/liquid.md#liquid-basics)
