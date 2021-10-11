@@ -9,8 +9,3 @@ date: 09-10-2021
 
 It is commonly used to host open-source projects. As of January 2020, GitHub reports having over 40 million users and more than 190 million repositories (including at least 28 million public repositories). It is the largest source code host as of April 2020.
 
-{% for entry in site.data.titanic %}
-
-- {{entry.Name}}:{{entry.Age}}
-
-{% endfor %}
