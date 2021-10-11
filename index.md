@@ -16,17 +16,17 @@
 
 	4.3 Add a Config file
 
-  	4.4 Add layouts and styles
+	4.4 Add layouts and styles
 
- 	4.5 Adding local or global variables
+	4.5 Adding local or global variables
 
- 	4.6 Commit changes
+	4.6 Commit changes
 
- 	4.7 Fork a project
+	4.7 Fork a project
 
- 	4.8 Raise a pull request
+	4.8 Raise a pull request
 
- 	4.9 Publish a project
+	4.9 Publish a project
 
 5. Using syntax in GitHub
 
