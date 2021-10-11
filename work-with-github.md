@@ -2,17 +2,15 @@
 
 To explore **GitHub** and it's services, refer to the following pages: 
 
-- Create a project
+- [Create a project](/create-a-project.md#create-a-project)
 
-- Clone a project
+- [Clone a project](/clone-a-project.md#clone-a-project)
 
-- Add an Index file
+- [Add files to your repository](/add-files.md#add-files-to-your-repository)
 
-- Add a Config file
+- Add layouts and styles(/add-layout-styles.md#add-layout-and-styles)
 
-- Add layouts and styles
-
-- Adding local or global variables
+- Add variables
 
 - Commit changes
 
