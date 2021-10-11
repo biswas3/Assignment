@@ -2,13 +2,13 @@
 
 To create a project in **GitHub**, follow the steps below: 
 
-1. Sign up to github.com
+1. Sign up to [github.com](https://github.com/)
 
 2. On the homepage of GitHub, click the **New** button. The **Creat a new repository** screen appears.
 
 3. On the screen, perform the following actions: 
 
-	- **Owner**: This is your GitHub username. It is selected by default. #
+	- **Owner**: This is your GitHub username. It is selected by default.
 
 	- **Repository name**: Type a relevant name for your repository. 
 
@@ -22,6 +22,6 @@ To create a project in **GitHub**, follow the steps below:
 
 	- **Initialize repository**: Select Add a README file to setup the repository. 
 
-		   __**Note**_:**Note**_: README files are used to provide additional information to readers about the purpose of the repository. It is always a best practive to include a README file.
+		__**Note**_:**Note**_: README files are used to provide additional information to readers about the purpose of the repository. It is always a best practive to include a README file.
 
 4. Click **Create repository**.
