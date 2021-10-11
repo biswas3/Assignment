@@ -12,18 +12,12 @@ Ipsum passages, and more recently with desktop publishing software like Aldus Pa
 
 A very good example of liquid syntax is using the **For-loop** statement, like below: 
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>This is a title</title>
-  </head>
-  <body>
-    <div>
-        <p>Hello world!</p>
-    </div>
-  </body>
-</html>
+```Liquid
+{% for entry in site.data.<dataset> %}
+
+- {{entry.<column name>}} {{entry.<column name>}}
+
+{% endfor %}
 ````
 
 It gives the following results:
