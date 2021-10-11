@@ -1,4 +1,4 @@
-# User Guide Topics
+# GitHub User Guide for Beginners
 
 ![GitHubTasks](https://www.programmableweb.com/sites/default/files/GitHub-Launches-Security-Advisory-API.jpg)
 
