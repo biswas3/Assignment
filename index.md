@@ -2,8 +2,8 @@
 
 ![GitHubTasks](https://www.programmableweb.com/sites/default/files/GitHub-Launches-Security-Advisory-API.jpg)
 
-1. Introduction/
-2. What's new in this guide/
+1. Introduction\
+2. What's new in this guide\
 3. Getting started/
 4. Work with GitHub/
 	4.1 Create a project/
