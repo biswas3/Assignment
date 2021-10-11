@@ -12,13 +12,19 @@ Ipsum passages, and more recently with desktop publishing software like Aldus Pa
 
 A very good example of liquid syntax is using the **For-loop** statement, like below: 
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+  </head>
+  <body>
+    <div>
+        <p>Hello world!</p>
+    </div>
+  </body>
+</html>
+````
 
 It gives the following results:
 
