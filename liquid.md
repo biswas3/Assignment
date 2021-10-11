@@ -14,7 +14,7 @@ A very good example of liquid syntax is using the 'For-loop' statement that give
 
 {% for entry in site.data.titanic %}
 
-- {{entry.Name}}:{{entry.Age}}
+1. {{entry.Name}} : {{entry.Age}}
 
 {% endfor %}
 
