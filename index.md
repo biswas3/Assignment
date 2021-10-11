@@ -1,4 +1,4 @@
-#User Guide Topics
+# User Guide Topics
 
 - Introduction
 - What's new in this guide
