@@ -4,9 +4,9 @@
 
 1. [Introduction](/introduction.md#introduction)
 
-2. Work with GitHub
+2. [Work with GitHub](/work-with-github.md#work-with-github)
 
-	2.1 Create a project
+	2.1 [Create a project](/create-a-project.md#create-a-project)
 
 	2.2 Clone a project
 
