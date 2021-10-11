@@ -8,15 +8,13 @@
 
 	2.1 [Create a project](/create-a-project.md#create-a-project)
 
-	2.2 Clone a project
+	2.2 [Clone a project](/clone-a-project.md#clone-a-project)
 
-	2.3 Add an Index file
+	2.3 [Add files to your repository](/add-files.md#add-files-to-your-repository)
 
-	2.4 Add a Config file
+	2.4 Add layouts and styles(/add-layout-styles.md#add-layout-and-styles)
 
-	2.5 Add layouts and styles
-
-	2.6 Adding local or global variables
+	2.6 Adding variables
 
 	2.7 Commit changes
 
