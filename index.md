@@ -1,5 +1,7 @@
 # User Guide Topics
 
+![TopicList](https://www.programmableweb.com/sites/default/files/GitHub-Launches-Security-Advisory-API.jpg)
+
 - Introduction
 - What's new in this guide
 - Getting Started
