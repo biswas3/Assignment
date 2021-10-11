@@ -13,12 +13,10 @@ Ipsum passages, and more recently with desktop publishing software like Aldus Pa
 A very good example of liquid syntax is using the **For-loop** statement, like below: 
 
 
-```
-
+```Liquid
 {% for entry in site.data.<dataset> %}
-1. {{entry.<column>}} : {{entry.<column name>}}
+1. {{entry.<column name>}} : {{entry.<column name>}}
 {% endfor %}
-
 ```
 
 It gives the following results:
