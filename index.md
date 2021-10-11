@@ -12,31 +12,31 @@
 
 	1.1 Create a project
 
-	1.1 Add an Index file
+	1.2 Add an Index file
 
-	1.1 Add a Config file
+	1.3 Add a Config file
 
-  1. Add layouts and styles
+  	1.4 Add layouts and styles
 
-  1. Content reuse in GitHub
+	1.5 Content reuse in GitHub
 
-  1. Adding local or global variables
+ 	1.6 Adding local or global variables
 
-  1. Commit changes
+ 	1.7 Commit changes
 
-  1. Fork a project
+ 	1.8 Fork a project
 
-  1. Raise a pull request
+ 	1.9 Raise a pull request
 
-  1. Publish a project
+ 	1.10 Publish a project
 
 1. Using syntax in GitHub
 
-  1. Markdown basics
+	1.1 Markdown basics
 
-  1. Yml basics
+	1.2 Yml basics
 
-  1. Liquid basics
+	1.3 Liquid basics
 
 
 
