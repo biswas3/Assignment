@@ -1,11 +1,13 @@
 h1 {color:green;}
 p {color:green;}
 ol {
-  background: #e3fcdc;
+  background: #e3fcdc
+  margin: 5px;
 }
 
 ul {
   background: #e3fcdc;
+  margin: 5px;
 }
 
 
