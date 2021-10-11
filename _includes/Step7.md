@@ -4,8 +4,8 @@
 
  		1. Go to **Manage > Account > Account resources > Resource groups**.
 
-		2. Click **Create**.
+		1. Click **Create**.
 
-		3. Enter a name for your resource group, and click **Add**.
+		1. Enter a name for your resource group, and click **Add**.
 
 See [What makes a good resource group strategy?](https://cloud.ibm.com/docs/account?topic=account-account_setup#resource-group-strategy) for details about how to optimally organize resources in your resource groups.
